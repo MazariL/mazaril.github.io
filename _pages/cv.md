@@ -11,9 +11,10 @@ redirect_from:
 
 ## Education 🎓
 
-* **Ph.D in Computer Science (AI and Language Processing)**, Université de Lorraine, 2025 (expected)
-* **M.Sc. in Natural Language Processing**, Université de Lorraine, 2022
-* **B.S. in Maths and Computer Science**, Université de Grenoble Alpes, 2020
+* **Licence 3 CCA**, IAE -- Université de Lorraine, Nancy 2025 (expected)
+* **BUT2 GEA-CG2P**, IUT Henri Poincaré de Longwy -- Université de Lorraine, Longwy 2022
+* **Bachelor en Economie-Gestion**, Université de Namur, Namur 2020
+* **1ère année Ecole de Commerce**, ENCG, Oujda 2020
 
 <!-- Work experience
 ======
