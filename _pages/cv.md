@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education 🎓
+## 🎓 Education 
 
 * **Licence 3 CCA**, IAE -- Université de Lorraine, Nancy 2025 (expected)
 * **BUT2 GEA-CG2P**, IUT Henri Poincaré de Longwy -- Université de Lorraine, Longwy 2022
