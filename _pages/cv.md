@@ -12,9 +12,9 @@ redirect_from:
 ## 🎓 Education 
 
 * **Licence 3 CCA**, IAE -- Université de Lorraine, Nancy 2025 (expected)
-* **BUT2 GEA-CG2P**, IUT Henri Poincaré de Longwy -- Université de Lorraine, Longwy 2022
-* **Bachelor en Economie-Gestion**, Université de Namur, Namur 2020
-* **1ère année Ecole de Commerce**, ENCG, Oujda 2020
+* **BUT2 GEA-CG2P**, IUT Henri Poincaré de Longwy -- Université de Lorraine, Longwy 2024
+* **Bachelor en Economie-Gestion**, Université de Namur, Namur 2023
+* **1ère année Ecole de Commerce**, ENCG, Oujda 2022
 
 <!-- Work experience
 ======
