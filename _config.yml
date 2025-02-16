@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nasser's HomePage"
+title                    : "Leila's HomePage"
 title_separator          : "-"
-name                     : &name "Nasser-Eddine Monir"
-description              : &description "PhD fellow working on AI and Speech Enhancement for Sensorineural Hearing Loss"
-url                      : https://nasseredd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Leila Charkaoui"
+description              : &description "Étudiante en 3ème année Licence CCA à l'IAE de Nancy"
+url                      : https://mazaril.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
@@ -20,13 +20,13 @@ repository               : # "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "personal_picture_1.png" 
-  name             : "Nasser-Eddine Monir"
-  bio              : "PhD fellow working on AI and Speech Enhancement for Hearing Loss"
+  avatar           : "leila_charkaoui.png" 
+  name             : "Leila Charkaoui"
+  bio              : "Étudiante en 3ème année Licence CCA à l'IAE de Nancy"
   location         : "Nancy"
-  employer         : "Loria/University of Lorraine"
+  employer         : "IAE/University of Lorraine"
   uri              : #"nasseredd.github.io"  # <-- Closing quote added
-  email            : "nasser-eddine.monir@inria.fr"
+  email            : "leila.charkaoui@etu.univ-lorraine.fr"
 
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/nasser-eddine-monir-20916a174"
+  linkedin         : "https://www.linkedin.com/in/leila-charkaoui-837384223/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
