@@ -1,5 +1,5 @@
 ---
-title: "🗣️ Latest News 🗓️"
+title: "🗓️ Latest News "
 permalink: /news/
 author_profile: true
 layout: single
@@ -119,13 +119,49 @@ layout: single
   </div>
 
   <div class="timeline-item">
-    <div class="event-text event-left"></div>
-    <div class="date-circle"></div>
-    <div class="event-text event-right">
+    <div class="event-text event-left">
       <div class="event-date">Septembre 2022</div>
       <div class="event-description">
         Début du <strong>Bachelor en Économie et Gestion</strong> à l'<strong>Université de Namur</strong>.  
         <br><em>Namur, Belgique 🇧🇪</em>
+      </div>
+    </div>
+    <div class="date-circle"></div>
+    <div class="event-text event-right"></div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="event-text event-left"></div>
+    <div class="date-circle"></div>
+    <div class="event-text event-right">
+      <div class="event-date">Avril 2022</div>
+      <div class="event-description">
+        Expérience en comptabilité à travers un stage volontaire au sein de la fiduciaire <strong>Mon Comptable SARL</strong>.
+        <br><em>Oujda, Maroc 🇲🇦</em>
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="event-text event-left">
+      <div class="event-date">Décembre 2021</div>
+      <div class="event-description">
+        Stage volontaire en <strong>comptabilité</strong> et <strong>configuration d’ERP</strong> réalisé au sein de la <strong>Société Automobile (SA)</strong>.
+        <br><em>Oujda, Maroc 🇲🇦</em>
+      </div>
+    </div>
+    <div class="date-circle"></div>
+    <div class="event-text event-right"></div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="event-text event-left"></div>
+    <div class="date-circle"></div>
+    <div class="event-text event-right">
+      <div class="event-date">Septembre 2021</div>
+      <div class="event-description">
+        Admission en <strong>première année</strong> à l'<strong>ENCG Oujda</strong>, école de commerce et de gestion.
+        <br><em>Oujda, Maroc 🇲🇦</em>
       </div>
     </div>
   </div>
