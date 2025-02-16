@@ -69,16 +69,13 @@ layout: single
 
 <div class="timeline-container">
   <div class="timeline-line"></div>
-
   <!-- Timeline items -->
   <div class="timeline-item">
     <div class="event-text event-left">
-      <div class="event-date">October 11th, 2024</div>
+      <div class="event-date">Septembre 2024</div>
       <div class="event-description">
-        Participated with Dr. Romain Serizel in a workshop at 
-        <a href="https://www.inria.fr/fr/fete-science-2023-nancy-communication-evenement" target="_blank">Fête de la science</a> 
-        titled “Aides auditives : la puce à l’oreille” for primary and middle school children on Friday, and for the general public on Saturday.
-        <br>Nancy, France 🇫🇷
+        Début de la <strong>troisième année</strong> de Licence Comptabilité, Contrôle et Audit (CCA) à l'<strong>IAE Nancy</strong>, Université de Lorraine.
+        <br><em>Nancy, France 🇫🇷</em>
       </div>
     </div>
     <div class="date-circle"></div>
@@ -89,21 +86,20 @@ layout: single
     <div class="event-text event-left"></div>
     <div class="date-circle"></div>
     <div class="event-text event-right">
-      <div class="event-date">September 9th, 2024</div>
+      <div class="event-date">Avril 2024</div>
       <div class="event-description">
-        Attended the 3rd edition of the <a href="https://summerschool.eitdigital.eu/ai4sustainability" target="_blank">AI4Sustainability</a> summer school and participated in the hackathon, presenting a sustainable startup idea leveraging AI.
-        <br>Milan, Italy🇮🇹
+        Début d'un <strong>stage en Contrôle de Gestion et Business Intelligence</strong> au sein du département <strong>Performance Management</strong> de <strong>BGL BNP Paribas Luxembourg</strong>. 
+        <br><em>Kirchberg, Luxembourg 🇱🇺</em>
       </div>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="event-text event-left">
-      <div class="event-date">February 1st, 2024</div>
+      <div class="event-date">Septembre 2023</div>
       <div class="event-description">
-        Started giving lectures on Algorithm Quality and Virtualization using Docker at 
-        <a href="https://iut-charlemagne.univ-lorraine.fr" target="_blank">IUT Nancy Charlemagne</a>—<a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>.
-        <br>Nancy, France🇫🇷
+        Intégration en <strong>deuxième année</strong> du Bachelor Universitaire de Technologie (BUT) en <strong>Gestion des Entreprises et Administrations (GEA)</strong> à l'<strong>IUT Henri Poincaré de Longwy</strong>, Université de Lorraine. 
+        <br><em>Longwy, France 🇫🇷</em>
       </div>
     </div>
     <div class="date-circle"></div>
@@ -114,95 +110,26 @@ layout: single
     <div class="event-text event-left"></div>
     <div class="date-circle"></div>
     <div class="event-text event-right">
-      <div class="event-date">January 8th, 2024</div>
+      <div class="event-date">Juin 2023</div>
       <div class="event-description">
-        Presented at the 15th edition of the <a href="https://2024.speech-in-noise.eu" target="_blank">SPIN workshop</a>, a poster comparing speech enhancement models on both utterance and phoneme scales.
-        <br>Potsdam, Germany🇩🇪
+        Réalisation d'un <strong>stage volontaire</strong> en tant qu'<strong>Assistante Back-Office & Contrôle de Gestion</strong> au sein du service Back-Office de l'entreprise <strong>Exsolvæ</strong>.  
+        <br><em>Bruxelles, Belgique 🇧🇪</em>
       </div>
     </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="event-text event-left">
-      <div class="event-date">November 29th, 2023</div>
-      <div class="event-description">
-        Attended the 10th edition of the <a href="https://rjcp-2023.sciencesconf.org" target="_blank">RJCP workshop</a>, where I presented a poster on our preliminary results evaluating speech enhancement algorithms at the phoneme scale.
-        <br>Grenoble, France🇫🇷
-      </div>
-    </div>
-    <div class="date-circle"></div>
-    <div class="event-text event-right"></div>
   </div>
 
   <div class="timeline-item">
     <div class="event-text event-left"></div>
     <div class="date-circle"></div>
     <div class="event-text event-right">
-      <div class="event-date">October 14th, 2023</div>
+      <div class="event-date">Septembre 2022</div>
       <div class="event-description">
-        Participated with Dr. Romain Serizel in a 2-day workshop at 
-        <a href="https://www.inria.fr/fr/fete-science-2023-nancy-communication-evenement" target="_blank">Fête de la science</a> 
-        titled “Aides auditives : la puce à l’oreille” for primary and middle school children on Friday, and for the general public on Saturday.
-        <br>Nancy, France🇫🇷
+        Début du <strong>Bachelor en Économie et Gestion</strong> à l'<strong>Université de Namur</strong>.  
+        <br><em>Namur, Belgique 🇧🇪</em>
       </div>
     </div>
   </div>
 
-  <div class="timeline-item">
-    <div class="event-text event-left">
-      <div class="event-date">September 1st, 2023</div>
-      <div class="event-description">
-        Started giving lectures on Shell and LaTeX, as well as supervising Python practical sessions at 
-        <a href="https://idmc.univ-lorraine.fr" target="_blank">IDMC</a>—<a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>.
-        <br>Nancy, France🇫🇷
-      </div>
-    </div>
-    <div class="date-circle"></div>
-    <div class="event-text event-right"></div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="event-text event-left"></div>
-    <div class="date-circle"></div>
-    <div class="event-text event-right">
-      <div class="event-date">June 5th, 2023</div>
-      <div class="event-description">
-        Attended the 10-day course "<a href="https://www.institut-audition.fr/pasteur-course" target="_blank">HEARING: From Mechanism to Restoration Technologies</a>" at the 
-        <a href="https://www.pasteur.fr/fr" target="_blank">Institut de l’Audition</a>, organized by 
-        <a href="https://research.pasteur.fr/fr/member/brice-bathellier/" target="_blank">Brice Bathellier</a> and 
-        <a href="https://research.pasteur.fr/fr/member/boris-gourevitch/" target="_blank">Boris Gourevitch</a> from the 
-        <a href="https://www.pasteur.fr/fr" target="_blank">Pasteur Institute</a>.
-        <br>Paris, France🇫🇷
-      </div>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="event-text event-left">
-      <div class="event-date">February 10th, 2023</div>
-      <div class="event-description">
-        First in-person meeting with the <a href="https://anr.fr/Projet-ANR-21-CE19-0043" target="_blank">REFINED project</a> team at 
-        <a href="https://www.institut-audition.fr/ceriah" target="_blank">CERIAH</a> (Pasteur Institute) to discuss the setup of patient tests.
-        <br>Paris, France🇫🇷
-      </div>
-    </div>
-    <div class="date-circle"></div>
-    <div class="event-text event-right"></div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="event-text event-left"></div>
-    <div class="date-circle"></div>
-    <div class="event-text event-right">
-      <div class="event-date">December 12th, 2022</div>
-      <div class="event-description">
-        Started a PhD at the <a href="https://www.loria.fr/fr/" target="_blank">Loria</a>-<a href="https://www.inria.fr/fr/centre-inria-universite-lorraine" target="_blank">Inria</a> 
-        and <a href="https://www.univ-lorraine.fr" target="_blank">Université de Lorraine</a>.
-        <br>Nancy, France🇫🇷 
-      </div>
-    </div>
-  </div>
-</div>
 
 
 
