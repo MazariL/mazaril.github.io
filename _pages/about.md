@@ -26,7 +26,7 @@ Je suis <strong>ouverte aux opportunités</strong> dans les domaines du <strong>
 </p>
 
 
-Domaines d’Intérêt Professionnel
+Intérêts Professionnels
 ---
 * Comptabilité
 * Reporting Financier
