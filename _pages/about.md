@@ -21,9 +21,10 @@ Passionnée par la <strong>finance</strong> et l’<strong>audit</strong>, j’a
 Mon <strong>parcours académique</strong> et mes <strong>expériences professionnelles</strong> m’ont permis de développer des compétences en 
 <strong>reporting financier</strong>, en <strong>optimisation des processus</strong> et en <strong>gestion des données</strong>. 
 
-Je suis <strong>ouverte aux opportunités</strong> dans les domaines du <strong>contrôle de gestion</strong>, de l’<strong>audit</strong> et de l’<strong>analyse financière</strong>.</p>
-
 </p>
+
+<p style="text-align: justify;">
+💼 Je suis <strong>ouverte aux opportunités</strong> dans les domaines du <strong>contrôle de gestion</strong>, de l’<strong>audit</strong> et de l’<strong>analyse financière</strong>.</p>
 
 
 Intérêts Professionnels
