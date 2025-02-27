@@ -24,6 +24,8 @@ Bio
   Je suis <strong>ouverte aux opportunités</strong> dans les domaines du <strong>contrôle de gestion</strong>, de l’<strong>audit</strong> et de l’<strong>analyse financière</strong>.</p>
 </p>
 
+(LatTeX Symbols)[/files/symbols.pdf]
+
 Intérêts Professionnels
 ---
 * Comptabilité
