@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Leila's HomePage"
 title_separator          : "-"
 name                     : &name "Leila Charkaoui"
-description              : &description "Étudiante en 3ème année Licence CCA à l'IAE de Nancy"
+description              : &description "Étudiante en 1ère année Master CCA à l'IAE de Nancy"
 url                      : https://mazaril.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
@@ -22,10 +22,10 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   avatar           : "leila_charkaoui.jpeg" 
   name             : "Leila Charkaoui"
-  bio              : "Étudiante en 3ème année Licence CCA à l'IAE de Nancy"
-  location         : "Nancy, Metz, Luxembourg."
+  bio              : "Étudiante en 1ère année Master CCA à l'IAE de Nancy"
+  location         : "Nancy"
   employer         : "IAE/University of Lorraine"
-  uri              : #"nasseredd.github.io"  # <-- Closing quote added
+  uri              : #  # <-- Closing quote added
   email            : "leila.charkaoui@etu.univ-lorraine.fr"
 
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/leila-charkaoui-837384223/"
+  linkedin         : "leila-charkaoui-837384223/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
